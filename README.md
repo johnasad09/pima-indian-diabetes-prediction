@@ -43,7 +43,11 @@ The project uses the **Pima Indians Diabetes Dataset**, containing medical recor
 - Jupyter Notebook
 
 ---
-
+## Trained Models
+Three different scikit-learn machine learning models are trained.
+- Logistic Regression
+- Random Forest Classifier
+- XGBoost Classifier
 
 ## 📉 Model Evaluation
 
